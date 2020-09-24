@@ -1,0 +1,28 @@
+.betweenVideo {
+  padding-top: 60px;
+}
+.videoTwo {
+  width: 165vh;
+  height: 85vh;
+  background-color: #f5f4f5;
+  margin: auto;
+  border-radius: 25px;
+}
+
+.videoText {
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 3.5rem;
+  padding: 60px;
+}
+
+.videoTextTwo {
+  display: flex;
+  padding-left: 60px;
+}
+.videoTextTwo > p {
+}
+
+.lionVideo {
+  padding-top: 50px;
+}
