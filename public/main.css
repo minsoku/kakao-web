@@ -20,7 +20,15 @@
   display: flex;
   padding-left: 60px;
 }
+.videoTextTwo > i {
+  padding-bottom: 10px;
+  padding-top: 2px;
+}
 .videoTextTwo > p {
+  padding-top: 10px;
+  padding-left: 10px;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .lionVideo {
